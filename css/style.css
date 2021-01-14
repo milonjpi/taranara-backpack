@@ -1,0 +1,23 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.myred{
+    color: #FA540E;
+}
+.myrounded{
+    border-radius: 15px;
+}
+.my-button{
+    background-color: #2A1E59;
+    font-size: 14px;
+}
+h2, h3, h5{
+    font-weight: 700;
+    color: #1C1F23;
+}
+.card{
+    border: none;
+}
+p, a{
+    color:black !important;
+}
